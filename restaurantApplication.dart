@@ -2,7 +2,7 @@ import 'dart:io';
 
 Map<String, int> menu = {"burger": 30, "pizza": 35, "fries": 10, "soda": 5};
 List<String> order = [];
-String name = "Abdulaziz";
+String name = "AbdulazizAlotaibi";
 
 // function to show menu
 void showMenu() {
